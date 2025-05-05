@@ -1,73 +1,8 @@
 # Junaid-Services
 
-<!DOCTYPE html>
-<html lang="ur" dir="rtl">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>تصدیقی خدمات - TK Enterprises</title>
-  <link href="https://fonts.googleapis.com/earlyaccess/notonastaliqurdu.css" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Noto Nastaliq Urdu', serif;
-      background-color: #f9f9f9;
-      color: #222;
-      line-height: 1.8;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #007b5e;
-      color: white;
-      text-align: center;
-      padding: 20px;
-      border-bottom: 4px solid #005245;
-    }
-    nav {
-      background-color: #e6f2ef;
-      padding: 10px;
-      text-align: center;
-    }
-    nav a {
-      margin: 10px;
-      text-decoration: none;
-      color: #007b5e;
-      font-weight: bold;
-    }
-    .section-box {
-      background-color: #fff;
-      margin: 20px;
-      padding: 20px;
-      border-radius: 12px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.05);
-    }
-    h2 {
-      color: #007b5e;
-    }
-    img {
-      max-width: 100%;
-      border-radius: 12px;
-      margin-top: 10px;
-    }
-    .contact-box {
-      background-color: #e6f2ef;
-      padding: 15px;
-      text-align: center;
-      font-size: 18px;
-      margin: 20px;
-      border-radius: 10px;
-    }
-    .contact-box a {
-      color: #007b5e;
-      text-decoration: none;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
 
   <header>
-    <h1>TK Enterprises - تصدیقی خدمات کی مکمل ویب سائٹ</h1>
+    <h1>Junaid Saeed Bhatti Enterprises - تصدیقی خدمات کی مکمل ویب سائٹ</h1>
   </header>
 
   <nav>
