@@ -38,11 +38,8 @@
   <section class="section-box" id="BISE DG KHAN Verification">
     <h2>BISE Verification تصدیق</h2>
     <p><strong>نارمل:2 8</strong>میٹرک سند  = 5000 روپے | وقت: 3 دن</p>
-    <p><strong>ارجنٹ:</strong> 7000 فی ڈاکومنٹ | وقت: 1 دن</p>
-    
-    <p>انٹرمیڈیٹ کےلیے بھی یہی چرجز ہوں گے:</p>
-    
-  
+    <p><strong>ارجنٹ:</strong> 7000 فی ڈاکومنٹ | وقت: 1 دن</p> 
+    <p>انٹرمیڈیٹ کےلیے بھی یہی چرجز ہوں گے:</p>  
   </section>
 
   <section class="section-box" id="mofa">
