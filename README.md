@@ -1,9 +1,9 @@
-#<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ur" dir="rtl">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>تصدیقی خدمات - TK Enterprises</title>
+  <title>تصدیقی خدمات - Junaid Seed Bhatti Enterprises</title>
   <link href="https://fonts.googleapis.com/earlyaccess/notonastaliqurdu.css" rel="stylesheet">
   <style>
     body {
