@@ -78,5 +78,5 @@
   <section class="contact-box" id="contact">
     <p><strong>رابطہ نمبر:</strong> 03312600036</p>
     <p><strong>واٹس ایپ:</strong> <a href="https://wa.me/923312600036?text=میں%20اٹیسٹیشن%20کے%20بارے%20میں%20معلومات%20چاہتا%20ہوں" target="_blank">یہاں کلک کریں</a></p>
-    <p><strong>ای میل:</strong> toqeerisra196@gmail.com</p>
+    <p><strong>ای میل:</strong> junikhanbhatti501@gmail.com</p>
    
