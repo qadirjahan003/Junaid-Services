@@ -40,12 +40,9 @@
     <p><strong>نارمل:2 8</strong>میٹرک سند  = 5000 روپے | وقت: 3 دن</p>
     <p><strong>ارجنٹ:</strong> 7000 فی ڈاکومنٹ | وقت: 1 دن</p>
     
-    <p><strong>ایکوئلینسی خدمات:</strong></p>
-    <ul>
-      <li>نارمل ریٹ: 8000 روپے | وقت: 20 دن</li>
-      <li>ارجنٹ ریٹ: 12000 روپے | وقت: 7 دن</li>
-    </ul>
-    <img src="https://via.placeholder.com/600x300.png?text=IBCC+Attestation" alt="IBCC Image">
+    <p><strong>انٹرمیڈیٹ کےلیے بھی یہی چرجز ہوں گے:</strong></p>
+    
+  
   </section>
 
   <section class="section-box" id="mofa">
